@@ -1,0 +1,1 @@
+uic your_ui_file.ui -o your_ui_file.h
